@@ -1,2 +1,2 @@
 Client ID: 1000.U28LLUHJ6SIJZ52CA3MAOWP6X871MR
-Client Secret:caf88afbbc412698dac265aada47ba8dabc74cfe00
+Client Secret: caf88afbbc412698dac265aada47ba8dabc74cfe00
